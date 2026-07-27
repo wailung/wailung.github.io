@@ -8,14 +8,22 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: leadership.qmd
+        text: Leadership
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

@@ -7,38 +7,40 @@ page-layout: full
 
 # William W. L. Cheung
 
-## Professor and Canada Research Chair in Ocean Sustainability and Global Change
+## Professor
 
-**University of British Columbia**
+The University of British Columbia
+
+**Canada Research Chair in Ocean Sustainability and Global Change**
 
 <p class="hero-statement">
-Advancing science for sustainable and resilient oceans in a changing climate.
+Advancing science for sustainable oceans in a changing climate.
 </p>
 
 ::: {.hero-buttons}
 
 [Research](research.qmd){.btn .btn-primary}
-[Projects](projects.qmd){.btn .btn-outline-primary}
-[Publications](publications.qmd){.btn .btn-outline-primary}
-[Leadership](leadership.qmd){.btn .btn-outline-primary}
-[Training](training.qmd){.btn .btn-outline-primary}
-[Knowledge Mobilization](knowledge-mobilization.qmd){.btn .btn-outline-primary}
+[Projects](projects.qmd){.btn .btn-primary}
+[Publications](publications.qmd){.btn .btn-primary}
+[Leadership](leadership.qmd) ·
+[Training](training.qmd) ·
+[Knowledge Mobilization](knowledge-mobilization.qmd)
 
 :::
 :::
 
 ::: {.hero-image}
 
-<!-- We will add your portrait here next. -->
+![](images/william-cheung.jpg){.hero-portrait}
 
 :::
 :::
 
-## Research vision
+## Research Vision
 
 Climate change is transforming ocean ecosystems, fisheries, food systems, and coastal societies. My research develops interdisciplinary evidence, models, and future scenarios to understand these changes and support sustainable, equitable, and resilient ocean futures.
 
-## Areas of work
+## Research Themes
 
 ::: {.research-grid}
 

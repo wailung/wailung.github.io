@@ -1,5 +1,9 @@
+project:
+  type: website
+  
 website:
   title: "William W. L. Cheung"
+  
   navbar:
     left:
       - href: index.qmd
@@ -22,13 +26,15 @@ website:
             text: Knowledge Mobilization
       - href: contact.qmd
         text: Contact
-
+  
+  page-footer:
+    center: |
+      © 2026 William W. L. Cheung • The University of British Columbia
+   
 format:
   html:
-    theme:
-      - cosmo
+    theme: cosmo
     css: styles.css
     toc: false
 
-editor: visual
 

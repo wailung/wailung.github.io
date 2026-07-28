@@ -14,17 +14,31 @@ The University of British Columbia
 **Canada Research Chair in Ocean Sustainability and Global Change**
 
 <p class="hero-statement">
-Advancing science for sustainable oceans in a changing climate.
+Advancing science for desirable and sustainable oceans in a changing climate.
 </p>
 
 ::: {.hero-buttons}
 
+<div class="primary-buttons">
+
+
 [Research](research.qmd){.btn .btn-primary}
 [Projects](projects.qmd){.btn .btn-primary}
 [Publications](publications.qmd){.btn .btn-primary}
-[Leadership](leadership.qmd) ·
-[Training](training.qmd) ·
+
+</div>
+
+<div class="secondary-links">
+
+[Leadership](leadership.qmd) 
+&nbsp;&bull;&nbsp;
+[Training](training.qmd) 
+&nbsp;&bull;&nbsp;
 [Knowledge Mobilization](knowledge-mobilization.qmd)
+
+
+</div>
+
 
 :::
 :::
@@ -40,45 +54,34 @@ Advancing science for sustainable oceans in a changing climate.
 
 Climate change is transforming ocean ecosystems, fisheries, food systems, and coastal societies. My research develops interdisciplinary evidence, models, and future scenarios to understand these changes and support sustainable, equitable, and resilient ocean futures.
 
-## Research Themes
+## Research Areas
 
 ::: {.research-grid}
 
 ::: {.research-card}
 ### Climate Change and Marine Ecosystems
 
-Understanding how warming, marine extremes, ocean acidification, deoxygenation, and circulation changes affect marine biodiversity and ecosystem functioning.
+Understanding how climate change reshapes marine biodiversity and ecosystem functioning.
 :::
 
 ::: {.research-card}
 ### Blue Food Futures
 
-Assessing the future of fisheries and aquatic food systems and identifying pathways that support food security, sustainability, and equity.
+Building resilient and equitable aquatic food systems for a changing world..
 :::
 
 ::: {.research-card}
-### Biodiversity and Ocean Sustainability
+### Ocean Sustainability and Biodiversity
 
-Connecting ecological change with conservation, governance, and sustainable development from local to global scales.
+Linking ecological change with conservation and sustainable ocean governance.
 :::
 
 ::: {.research-card}
-### Scenarios and Ocean Futures
+### Ocean Futures & Scenarios
 
-Developing models, scenarios, and storylines to explore risks, adaptation, tipping points, and alternative pathways for ocean futures.
+Exploring future risks, adaptation pathways, tipping points and feasible solution space.
 :::
 
-::: {.research-card}
-### Science–Policy Leadership
-
-Contributing scientific evidence and assessment leadership through international processes including the IPCC and IPBES.
-:::
-
-::: {.research-card}
-### Training and Knowledge Mobilization
-
-Supporting the next generation of ocean researchers and connecting scientific knowledge with policy, practice, and public understanding.
-:::
 
 :::
 

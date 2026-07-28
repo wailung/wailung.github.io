@@ -1,1 +1,129 @@
-/* css styles */
+/* Overall page */
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+h2 {
+  margin-top: 2.5rem;
+}
+
+/* Hero section */
+
+.hero-section {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 3.5rem;
+  align-items: center;
+  padding: 4rem 0 3rem 0;
+  min-height: 520px;
+}
+
+.hero-text h1 {
+  font-size: 3.4rem;
+  line-height: 1.05;
+  margin-bottom: 1.2rem;
+}
+
+.hero-text h2 {
+  font-size: 1.45rem;
+  line-height: 1.4;
+  font-weight: 400;
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+.hero-statement {
+  font-size: 1.45rem;
+  line-height: 1.5;
+  margin-top: 1.8rem;
+  margin-bottom: 2rem;
+  max-width: 720px;
+}
+
+.hero-image {
+  min-height: 420px;
+  border-radius: 12px;
+  background: #eef3f5;
+}
+
+/* Buttons */
+
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.hero-buttons .btn {
+  margin: 0;
+}
+
+/* Research cards */
+
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.research-card {
+  padding: 1.5rem;
+  border: 1px solid #dfe6e9;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.research-card p:last-child {
+  margin-bottom: 0;
+}
+
+/* Responsive layout */
+
+@media (max-width: 900px) {
+  .hero-section {
+    grid-template-columns: 1fr;
+    padding-top: 2.5rem;
+  }
+
+  .hero-text h1 {
+    font-size: 2.7rem;
+  }
+
+  .hero-image {
+    min-height: 320px;
+  }
+
+  .research-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-text h1 {
+    font-size: 2.3rem;
+  }
+
+  .hero-statement {
+    font-size: 1.2rem;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}

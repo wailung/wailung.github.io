@@ -1,7 +1,9 @@
 ---
-title: "Home"
 page-layout: full
 ---
+
+::: {.hero-section}
+::: {.hero-text}
 
 # William W. L. Cheung
 
@@ -9,48 +11,81 @@ page-layout: full
 
 **University of British Columbia**
 
+<p class="hero-statement">
 Advancing science for sustainable and resilient oceans in a changing climate.
+</p>
+
+::: {.hero-buttons}
 
 [Research](research.qmd){.btn .btn-primary}
+[Projects](projects.qmd){.btn .btn-outline-primary}
 [Publications](publications.qmd){.btn .btn-outline-primary}
 [Leadership](leadership.qmd){.btn .btn-outline-primary}
+[Training](training.qmd){.btn .btn-outline-primary}
+[Knowledge Mobilization](knowledge-mobilization.qmd){.btn .btn-outline-primary}
 
----
+:::
+:::
 
-## Research focus
+::: {.hero-image}
 
-My research examines how climate change is transforming marine ecosystems, fisheries, biodiversity, and ocean-dependent communities. I develop and apply interdisciplinary models, scenarios, and assessments to identify risks, adaptation options, and pathways toward sustainable ocean futures.
+<!-- We will add your portrait here next. -->
 
-### Climate change and marine ecosystems
+:::
+:::
 
-Understanding how warming, ocean extremes, deoxygenation, acidification, and changes in circulation affect marine biodiversity and ecosystem functioning.
+## Research vision
 
-### Blue food futures
+Climate change is transforming ocean ecosystems, fisheries, food systems, and coastal societies. My research develops interdisciplinary evidence, models, and future scenarios to understand these changes and support sustainable, equitable, and resilient ocean futures.
 
-Assessing the future of fisheries and aquatic food systems under climate change and exploring pathways that support food security, equity, and sustainability.
+## Areas of work
 
-### Biodiversity and ocean sustainability
+::: {.research-grid}
 
-Connecting ecological change with conservation, governance, and sustainable development across local to global scales.
+::: {.research-card}
+### Climate Change and Marine Ecosystems
 
-### Science for policy
+Understanding how warming, marine extremes, ocean acidification, deoxygenation, and circulation changes affect marine biodiversity and ecosystem functioning.
+:::
+
+::: {.research-card}
+### Blue Food Futures
+
+Assessing the future of fisheries and aquatic food systems and identifying pathways that support food security, sustainability, and equity.
+:::
+
+::: {.research-card}
+### Biodiversity and Ocean Sustainability
+
+Connecting ecological change with conservation, governance, and sustainable development from local to global scales.
+:::
+
+::: {.research-card}
+### Scenarios and Ocean Futures
+
+Developing models, scenarios, and storylines to explore risks, adaptation, tipping points, and alternative pathways for ocean futures.
+:::
+
+::: {.research-card}
+### Science–Policy Leadership
 
 Contributing scientific evidence and assessment leadership through international processes including the IPCC and IPBES.
+:::
 
----
+::: {.research-card}
+### Training and Knowledge Mobilization
 
-## Research group
+Supporting the next generation of ocean researchers and connecting scientific knowledge with policy, practice, and public understanding.
+:::
+
+:::
+
+## Changing Ocean Research Unit
 
 I lead the [Changing Ocean Research Unit](https://coru.oceans.ubc.ca), an interdisciplinary research group at the University of British Columbia.
 
-## Institutional profile
-
-My official UBC profile is available through the Institute for the Oceans and Fisheries.
+[Visit the CORU website](https://coru.oceans.ubc.ca){.btn .btn-outline-primary}
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{}
 ```

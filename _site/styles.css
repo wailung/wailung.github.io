@@ -189,3 +189,37 @@ h2 {
     grid-template-columns: 1fr;
   }
 }
+
+/* About page */
+
+.about-intro {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.8fr) minmax(0, 1.4fr);
+  gap: 3rem;
+  align-items: start;
+  margin: 2rem 0 4rem;
+}
+
+.about-photo img {
+  width: 100%;
+  max-height: 560px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 12px;
+}
+
+.about-summary h2 {
+  margin-top: 0;
+  font-size: clamp(2rem, 3vw, 3rem);
+}
+
+@media (max-width: 800px) {
+  .about-intro {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .about-photo img {
+    max-height: 440px;
+  }
+}

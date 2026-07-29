@@ -19,7 +19,7 @@ h2 {
 
 .hero-section {
   display: grid;
-  grid-template-columns: 55% 45%;
+  grid-template-columns: 58% 42%;
   gap: 3.5rem;
   align-items: center;
   padding: 4rem 0 3rem 0;
@@ -30,7 +30,7 @@ h2 {
   font-size: clamp(2.4rem, 4vw, 3.8rem);
   font-weight: 700;
   line-height: 1.05;
-  margin-bottom: 1.2rem;
+  margin-bottom: 2rem;
 }
 
 .hero-text h2 {
@@ -63,7 +63,11 @@ h2 {
 }
 
 .hero-section {
-  width: 100%;
+  display: grid;
+  grid-template-columns: 58% 42%;
+  gap: 3rem;
+  align-items: center;
+  margin: 2.5rem 0 4rem;
 }
 
 /* NEW */
@@ -91,6 +95,13 @@ h2 {
 
 .primary-buttons {
   margin-bottom: 1rem;
+}
+
+.primary-buttons .btn {
+  padding: 0.55rem 1rem;
+  font-weight: 500;
+  margin-right: 0.4rem;
+  border-radius: 4px;
 }
 
 .secondary-links {
@@ -206,6 +217,15 @@ h2 {
   object-fit: cover;
   object-position: center top;
   border-radius: 12px;
+}
+
+.about-summary {
+  max-width: 680px;
+}
+
+.about-summary p {
+  line-height: 1.7;
+  margin-bottom: 1.1rem;
 }
 
 .about-summary h2 {

@@ -67,7 +67,7 @@ Understanding how climate change reshapes marine biodiversity and ecosystem func
 ::: {.research-card}
 ### Blue Food Futures
 
-Building resilient and equitable aquatic food systems for a changing world..
+Building resilient and equitable aquatic food systems for a changing world.
 :::
 
 ::: {.research-card}
@@ -77,9 +77,9 @@ Linking ecological change with conservation and sustainable ocean governance.
 :::
 
 ::: {.research-card}
-### Ocean Futures & Scenarios
+### Ocean Futures and Scenarios
 
-Exploring future risks, adaptation pathways, tipping points and feasible solution space.
+Exploring future risks, adaptation pathways, tipping points, and opportunities for transformative change.
 :::
 
 

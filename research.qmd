@@ -2,4 +2,53 @@
 title: "Research"
 ---
 
-This page is under development.
+
+The ocean is changing rapidly under the combined pressures of climate change, direct exploitation, habitat change, pollution and invasive species. My research seeks to understand how these drivers interact to shape marine ecosystems and the societies that depend on them. I combine observations, ecological theory, numerical modelling, and participatory approaches with insights from the economic and social sciences to generate knowledge that supports sustainable ocean management, climate adaptation, biodiversity conservation, and resilient blue food systems.
+
+My work spans four interconnected research themes.
+
+---
+
+## Climate Change and Marine Ecosystems
+
+Climate change is fundamentally reshaping marine ecosystems through ocean warming, marine heatwaves, ocean acidification, deoxygenation, sea-level rise, and changes in ocean circulation. My research examines how these drivers alter species distributions, ecosystem productivity, food-web dynamics, ecosystem services, and fisheries and aquaculture across regional and global scales. I develop and apply interdisciplinary modelling approaches that integrate ecological, environmental, economic, and social dimensions to project future changes, identify emerging risks, evaluate adaptation and conservation strategies, and explore alternative scenarios for sustainable ocean futures.
+
+*Representative topics*: marine heatwaves, species redistribution, ecosystem modelling, ecosystem services, ocean acidification, deoxygenation, future scenarios, climate adaptation.
+
+---
+
+## Blue Food Futures
+
+Marine fisheries and aquaculture play essential roles in food security, nutrition, livelihoods, and economic development. My research explores how climate change and other environmental pressures influence the future of blue foods, and how governance, technology, and policy can enhance resilience and equity. This work integrates ecological, economic, and social dimensions to identify sustainable pathways for ocean-based food systems.
+
+*Representative topics:* fisheries adaptation, food security, sustainable aquaculture, blue economy, ocean-climate-food nexus.
+
+---
+
+## Ocean Sustainability and Biodiversity
+
+Achieving sustainable oceans requires balancing biodiversity conservation with the needs of people. My research investigates how marine protected areas, ecosystem-based management, biodiversity policy, and nature-positive approaches can strengthen both ecological integrity and human well-being. I contribute to international assessments and collaborate with governments and organizations to translate science into policy.
+
+*Representative topics:* biodiversity conservation, marine protected areas, ecosystem-based management, IPBES, global biodiversity policy.
+
+---
+
+## Ocean Futures and Scenarios
+
+Preparing for uncertain futures requires exploring multiple plausible pathways rather than predicting a single outcome. My research develops scenarios that combine climate projections, ecosystem models, socioeconomic change, and stakeholder knowledge to examine future risks, opportunities, and transformative solutions. Increasingly, this work focuses on tipping points, resilience, and pathways toward sustainable ocean futures.
+
+*Representative topics:* future scenarios, tipping points, resilience, integrated assessment, participatory storylines, IPCC.
+
+---
+
+# Research Approach
+
+Across these projects, I combine:
+
+- Earth system and ocean modelling
+- Marine ecosystem and fisheries models
+- Climate risk assessment
+- Social-ecological systems analysis
+- Scenario development
+- Participatory approaches
+- International scientific assessments

@@ -2,4 +2,57 @@
 title: "Projects"
 ---
 
-This page will present selected current and completed research initiatives.
+My research spans global assessments, international collaborations, and interdisciplinary research projects that advance understanding of climate change, marine ecosystems, fisheries, biodiversity, and sustainable ocean futures.
+
+The projects below represent major current and recent initiatives.
+
+---
+
+## TIP-BLUE
+### Tipping Points in Atlantic Marine Social-Ecological Systems
+
+TIP-BLUE investigates how changes in Atlantic Ocean circulation, including the potential weakening of the Atlantic Meridional Overturning Circulation (AMOC), could influence marine ecosystems, fisheries, coastal communities, and biodiversity. The project combines climate modelling, ecosystem modelling, participatory scenario development, and governance analysis to identify both risks and opportunities for building resilient ocean futures.
+
+**Role:** Project Lead
+
+---
+
+## IPCC Seventh Assessment Report (AR7)
+
+As Coordinating Lead Author for Chapter 12 (North America), I help coordinate the assessment of climate change impacts, risks, adaptation, and vulnerability across North America. The assessment synthesizes thousands of scientific studies to inform governments and society.
+
+**Role:** Coordinating Lead Author
+
+---
+
+## IPBES Assessment
+
+I serve as Coordinating Lead Author for the IPBES Assessment on Biodiversity, Water, Food and Health, contributing to the synthesis of evidence on biodiversity and human well-being across multiple sectors.
+
+**Role:** Coordinating Lead Author
+
+---
+
+## CORU — Changing Ocean Research Unit
+
+CORU develops interdisciplinary research that connects marine ecology, climate science, fisheries, economics, governance, and sustainability science. The group works with researchers, governments, Indigenous partners, NGOs, and international organizations to develop solutions for sustainable oceans.
+
+**Role:** Founder and Research Lead
+
+---
+
+## Marine Ecosystem Modelling
+
+Development and application of dynamic bioclimate envelope models (DBEM) and other ecosystem modelling approaches to project future changes in marine biodiversity, fisheries, and ecosystem services under climate change.
+
+---
+
+## Marine Heatwaves
+
+Research on the ecological, fisheries, and socioeconomic consequences of marine heatwaves, including compound climate extremes, ecosystem reorganization, and adaptation strategies.
+
+---
+
+## Ocean Futures
+
+Development of scenarios, storylines, and integrated assessments to explore sustainable futures for ocean ecosystems, blue food systems, and biodiversity conservation.
